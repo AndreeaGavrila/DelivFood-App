@@ -1,6 +1,5 @@
 # Food-Delivery Project
 
-## Stage 1
 
 ***Classes:***
 * Person
@@ -12,21 +11,32 @@
 * Order  
 * Review 
 
-
 ***Actions:***
 * Register a new user
+* Show all the users
+
+* Register a new restaurant
 * Show all available restaurants
-* Show the menu of a restaurant
+
 * Add a product to a restaurant's menu
+* Show the menu of a restaurant
+
 * Add a review to a restaurant
 * Show all restaurant reviews
+
 * Add a product to your cart
-* Show your cart  
-* Create an order
-* Deliver an order
-* Show the order status
-* Complete an order
-* Cancel an order
+* Show your cart
+
 * Show all the orders
+
+* Create an order
+* Cancel an order
+* Show the order status
+
+* Deliver an order
+* Complete an order
+
 * Add a driver
 * Show all the drivers
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
