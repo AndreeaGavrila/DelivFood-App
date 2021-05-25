@@ -1,5 +1,7 @@
-# Food-Delivery Project
+# Food-Delivery Project  :pizza:  :green_salad:  :cupcake:  :coffee:
 
+
+## Final Stage completed :smile:
 
 ***Classes:***
 * Person
@@ -12,31 +14,31 @@
 * Review 
 
 ***Actions:***
-* Register a new user
-* Show all the users
+* [  1. ]  Register a new user
+* [  2. ]  Show all the users
 
-* Register a new restaurant
-* Show all available restaurants
+* [  3. ]  Register a new restaurant
+* [  4. ]  Show all available restaurants
 
-* Add a product to a restaurant's menu
-* Show the menu of a restaurant
+* [  5. ]  Add a product to a restaurant's menu
+* [  6. ]  Show the menu of a restaurant
 
-* Add a review to a restaurant
-* Show all restaurant reviews
+* [  7. ]  Add a review to a restaurant
+* [  8. ]  Show all restaurant reviews
 
-* Add a product to your cart
-* Show your cart
+* [  9. ]  Add a product to your cart
+* [ 10. ]  Show your cart
 
-* Show all the orders
+* [ 11. ]  Show all the orders
 
-* Create an order
-* Cancel an order
-* Show the order status
+* [ 12. ]  Create an order
+* [ 13. ]  Cancel an order
+* [ 14. ]  Show the order status
 
-* Deliver an order
-* Complete an order
+* [ 15. ]  Deliver an order
+* [ 16. ]  Complete an order
 
-* Add a driver
-* Show all the drivers
+* [ 17. ]  Add a new driver
+* [ 18. ]  Show all the drivers
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
